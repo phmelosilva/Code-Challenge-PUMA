@@ -1,0 +1,22 @@
+{
+  "name": "code-challenge-puma",
+  "version": "1.0.0",
+  "description": "Teste para o PUMA",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phmelosilva/Code-Challenge-PUMA.git"
+  },
+  "author": "Pedro Henrique",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phmelosilva/Code-Challenge-PUMA/issues"
+  },
+  "homepage": "https://github.com/phmelosilva/Code-Challenge-PUMA#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
